@@ -1,0 +1,52 @@
+{
+  "name": "PictureBotC1",
+  "padlock": "xNXw5a6MXLpU0TVTATlTmg==!U7rKWysNPxPG7piupISEznIybobf/J5YcMWIvge9xLfvoZ7F29vqBJMPAOebNhKc",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "03363749-29d6-4915-933a-8a647804605d",
+      "subscriptionId": "6b062225-ab32-4b44-a4bf-8efc08dba624",
+      "resourceGroup": "ODL-ai-emerging-38640",
+      "serviceName": "PictureBotC1",
+      "type": "abs",
+      "name": "PictureBotC1",
+      "id": "1"
+    },
+    {
+      "connectionString": "o8nmnhKXyIP285fSdg2tYw==!FL1Mt7qrc6+3UVnaB3CJeLYBmpNZUJBW9k2Pbv/cVO58u3Dtsq6qQIhsyQuz3FvZcfgLLc3e1/XhYOQCHeni0rIw/BESqxczoxC2j6HonA9KBwLR6zky/VMeC+K7Do8h3MwKHx4gIjL3B4K9WaWAXbaLI8vggJteIMpo/ycwsDd4qOhcernr/SVKUpeSUlHlKk6/GmksYUBjkYpRyQzsjsm4FVEZ0b46s4MT586DZ9A=",
+      "tenantId": "03363749-29d6-4915-933a-8a647804605d",
+      "subscriptionId": "6b062225-ab32-4b44-a4bf-8efc08dba624",
+      "resourceGroup": "ODL-ai-emerging-38640",
+      "serviceName": "picturebotc1b3f7",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "6b56f79f-8fca-4261-bef5-6d536e029304",
+      "appPassword": "3IWQbmcuxtBoqdxEwzXMiA==!4lUysNleQ9jIwKauC55nBcI+mbvII5x0IveybHpsye0=",
+      "endpoint": "https://picturebotc1.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "KOpyrWYxmkfvutrGu+my9w==!4iYRSdSpHzDkU3KaSXz20+JvpUv+Vp6+JhHl9q+W/SWc6sGTd8/vYzSEcS6hKQjn",
+      "applicationId": "f08279de-f268-47f3-b996-0f2ff0bd02b5",
+      "apiKeys": {},
+      "tenantId": "03363749-29d6-4915-933a-8a647804605d",
+      "subscriptionId": "6b062225-ab32-4b44-a4bf-8efc08dba624",
+      "resourceGroup": "ODL-ai-emerging-38640",
+      "serviceName": "PictureBotC1ketepi",
+      "type": "appInsights",
+      "id": "5"
+    }
+  ]
+}

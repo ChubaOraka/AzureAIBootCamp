@@ -1,0 +1,12 @@
+C:\Users\dsvmuser\Downloads\PictureBotC1-src\bin\Debug\netcoreapp2.0\PictureBotC1.bot
+C:\Users\dsvmuser\Downloads\PictureBotC1-src\bin\Debug\netcoreapp2.0\PictureBot.deps.json
+C:\Users\dsvmuser\Downloads\PictureBotC1-src\bin\Debug\netcoreapp2.0\PictureBot.runtimeconfig.json
+C:\Users\dsvmuser\Downloads\PictureBotC1-src\bin\Debug\netcoreapp2.0\PictureBot.runtimeconfig.dev.json
+C:\Users\dsvmuser\Downloads\PictureBotC1-src\bin\Debug\netcoreapp2.0\PictureBot.dll
+C:\Users\dsvmuser\Downloads\PictureBotC1-src\bin\Debug\netcoreapp2.0\PictureBot.pdb
+C:\Users\dsvmuser\Downloads\PictureBotC1-src\obj\Debug\netcoreapp2.0\PictureBot.csprojAssemblyReference.cache
+C:\Users\dsvmuser\Downloads\PictureBotC1-src\obj\Debug\netcoreapp2.0\PictureBot.csproj.CoreCompileInputs.cache
+C:\Users\dsvmuser\Downloads\PictureBotC1-src\obj\Debug\netcoreapp2.0\PictureBot.AssemblyInfoInputs.cache
+C:\Users\dsvmuser\Downloads\PictureBotC1-src\obj\Debug\netcoreapp2.0\PictureBot.AssemblyInfo.cs
+C:\Users\dsvmuser\Downloads\PictureBotC1-src\obj\Debug\netcoreapp2.0\PictureBot.dll
+C:\Users\dsvmuser\Downloads\PictureBotC1-src\obj\Debug\netcoreapp2.0\PictureBot.pdb
